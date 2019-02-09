@@ -1,5 +1,8 @@
 package com.practicse;
 
 public class ClassTest {
-system.out.println("hahaha");
+
+ public static void main(String[] args) {
+	System.out.println("HAHAHA");
+}
 }
